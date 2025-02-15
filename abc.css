@@ -1,0 +1,21 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Document</title>
+    <link rel="stylesheet" href="style.css">
+</head>
+<body>
+<div class="flex">
+<h1 class="heading1">What this handout is about.</h1> 
+<p id="paragarh">What this handout is about
+ This handout will help you understand how paragraphs are formed, how to develop stronger paragraphs, and how to completely and clearly express your ideas.</p>
+</div>
+<div class="flexdesign"></div>
+<button class="btn-click here">click here</button>
+<button class="btn-click here1">click here</button>
+</body>
+</html>
+
+
